@@ -1,1 +1,1 @@
-# MAD-and-PWA-lab
+IT sem-6
