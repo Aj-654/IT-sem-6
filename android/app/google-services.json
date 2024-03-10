@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "910021652627",
+    "project_id": "story-wimin1",
+    "storage_bucket": "story-wimin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910021652627:android:bd1d505658717a9d5f1d66",
+        "android_client_info": {
+          "package_name": "com.mycompany.story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910021652627-jmfskav1cf3on0osiejg464tv83lf3bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.story",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "910021652627-ap8j9uhf61o4tfevmrd0rbvg5cif3lsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH255oFJnzKHxFlmMTMtPXX5HhTJfx6uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910021652627-ap8j9uhf61o4tfevmrd0rbvg5cif3lsa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910021652627-qn997rptmmm54s94ravacnc4csl3ri0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.story"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
